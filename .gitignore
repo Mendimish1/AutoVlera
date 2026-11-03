@@ -1,1 +1,6 @@
 data/raw/autoscout24_dataset_20251108.csv
+data/raw/*.csv
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
